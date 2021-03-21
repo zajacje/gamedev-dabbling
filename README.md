@@ -1,5 +1,2 @@
-# hello-world
-This is a test
-
-
-Here I am adding changes. These are changes. So hopefully this will be added to the main branch. Cool. This is cool. Neato. Fun. Awesome.
+# renpy-scraps
+Here are the .rpy files from scraps I made.
