@@ -1,0 +1,13 @@
+image maya norm = im.FactorScale("Maya/AmanoNorm.png", 0.5, xalign = 1.0)
+image maya smile = im.FactorScale("Maya/AmanoSmile.png", 0.5, xalign = 1.0)
+
+image tatsuya angry = im.FactorScale("Tatsuya/TatsuyaAngry.png", 0.5)
+image tatsuya blush = im.FactorScale("Tatsuya/TatsuyaBlush.png", 0.5)
+image tatsuya invertAngry = im.FactorScale("Tatsuya/TatsuyaInvertAngry.png", 0.5)
+image tatsuya invertPain = im.FactorScale("Tatsuya/TatsuyaInvertPain.png", 0.5)
+image tatsuya invertShock = im.FactorScale("Tatsuya/TatsuyaInvertShock.png", 0.5)
+image tatsuya smile = im.FactorScale("Tatsuya/TatsuyaSmile.png", 0.5)
+image tatsuya shock = im.FactorScale("Tatsuya/TatsuyaShock.png", 0.5)
+image tatsuya norm = im.FactorScale("Tatsuya/TatsuyaNorm.png", 0.5)
+image tatsuya sad = im.FactorScale(Image("Tatsuya/TatsuyaSad.png", xalign=0.0, yalign=0.0), 2.5)
+image tatsuya pain = im.FactorScale("Tatsuya/TatsuyaPain.png", 1.0)
